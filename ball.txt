@@ -1,0 +1,2 @@
+ball diameter:5cm
+ball wt:150gm

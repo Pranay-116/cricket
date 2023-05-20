@@ -1,0 +1,2 @@
+bat_size:10cm
+bat_width:5cm
